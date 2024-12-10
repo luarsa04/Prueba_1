@@ -29,3 +29,5 @@ CREATE TABLE usuario(
     apellido VARCHAR(15),
     domicilio VARCHAR(15)
 );
+
+-- Prueba de edicion para  ver si funciona
