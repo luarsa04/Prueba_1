@@ -30,4 +30,4 @@ CREATE TABLE usuario(
     domicilio VARCHAR(15)
 );
 
--- Prueba de edicion para  ver si funciona
+-- Prueba de edicion para  ver si funciona aaaa
